@@ -1,3 +1,13 @@
+# @discere-os/dav1d.wasm
+
+WebAssembly port of dav1d - AV1 video decoder with high-performance SIMD optimizations and comprehensive TypeScript interfaces.
+
+[![CI/CD](https://github.com/discere-os/discere-nucleus/actions/workflows/dav1d-wasm-ci.yml/badge.svg)](https://github.com/discere-os/discere-nucleus/actions)
+[![JSR](https://jsr.io/badges/@discere-os/dav1d.wasm)](https://jsr.io/@discere-os/dav1d.wasm)
+[![npm version](https://badge.fury.io/js/@discere-os%2Fdav1d.wasm.svg)](https://badge.fury.io/js/@discere-os%2Fdav1d.wasm)
+[![License](https://img.shields.io/badge/License-BSD--2--Clause-blue.svg)](LICENSE)
+[![Status](https://img.shields.io/badge/status-alpha-orange.svg)](https://github.com/discere-os/discere-nucleus)
+
 ![dav1d logo](doc/dav1d_logo.png)
 
 # dav1d
@@ -159,3 +169,21 @@ Please read the [AV1 patent license](doc/PATENTS) that applies to the AV1 specif
 ## Will you care about <my_arch>? <my_os>?
 
 - We do, but we don't have either the time or the knowledge. Therefore, patches and contributions welcome.
+
+
+## 💖 Support This Work
+
+This WebAssembly port is part of a larger effort to bring professional desktop applications to browsers with native performance.
+
+**👨‍💻 About the Maintainer**: [Isaac Johnston (@superstructor)](https://github.com/superstructor) - Building foundational browser-native computing infrastructure through systematic C/C++ to WebAssembly porting.
+
+**📊 Impact**: 70+ open source WASM libraries enabling professional applications like Blender, GIMP, and scientific computing tools to run natively in browsers.
+
+**🚀 Your Support Enables**:
+- Continued maintenance and updates
+- Performance optimizations
+- New library ports and integrations
+- Documentation and tutorials
+- Cross-browser compatibility testing
+
+**[💖 Sponsor this work](https://github.com/sponsors/superstructor)** to help build the future of browser-native computing.
